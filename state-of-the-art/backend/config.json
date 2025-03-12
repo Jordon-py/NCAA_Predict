@@ -1,0 +1,11 @@
+{
+  "datasetPath": "./data/dataset.csv",
+  "featureColumns": [
+    "team_stat1",
+    "team_stat2",
+    "player_performance",
+    "injury_factor",
+    "home_court_advantage"
+  ],
+  "labelColumn": "outcome"
+}
