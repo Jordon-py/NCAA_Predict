@@ -2,7 +2,6 @@
   "datasetPath": "./data/dataset.csv",
   "featureColumns": [ 
     "SeasonYear","DayIndex","WinningTeamID","WinningTeamScore","LosingTeamID","LosingTeamScore","WinningTeamLocation","NumberOfOTs","WinFieldGoalsMade","WinFieldGoalsAttempted","Win3PMade","Win3PAttempted","WinFreeThrowsMade","WinFreeThrowsAttempted","WinOffensiveRebounds","WinDefensiveRebounds","WinAssists","WinTurnovers","WinSteals","WinBlocks","WinPersonalFouls","LoseFieldGoalsMade","LoseFieldGoalsAttempted","Lose3PMade","Lose3PAttempted","LoseFreeThrowsMade","LoseFreeThrowsAttempted","LoseOffensiveRebounds","LoseDefensiveRebounds","LoseAssists","LoseTurnovers","LoseSteals","LoseBlocks","LosePersonalFouls"
-
   ],
   "labelColumn": "outcome"
 }
