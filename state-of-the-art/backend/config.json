@@ -1,11 +1,8 @@
 {
   "datasetPath": "./data/dataset.csv",
-  "featureColumns": [
-    "team_stat1",
-    "team_stat2",
-    "player_performance",
-    "injury_factor",
-    "home_court_advantage"
+  "featureColumns": [ 
+    "SeasonYear","DayIndex","WinningTeamID","WinningTeamScore","LosingTeamID","LosingTeamScore","WinningTeamLocation","NumberOfOTs","WinFieldGoalsMade","WinFieldGoalsAttempted","Win3PMade","Win3PAttempted","WinFreeThrowsMade","WinFreeThrowsAttempted","WinOffensiveRebounds","WinDefensiveRebounds","WinAssists","WinTurnovers","WinSteals","WinBlocks","WinPersonalFouls","LoseFieldGoalsMade","LoseFieldGoalsAttempted","Lose3PMade","Lose3PAttempted","LoseFreeThrowsMade","LoseFreeThrowsAttempted","LoseOffensiveRebounds","LoseDefensiveRebounds","LoseAssists","LoseTurnovers","LoseSteals","LoseBlocks","LosePersonalFouls"
+
   ],
   "labelColumn": "outcome"
 }
